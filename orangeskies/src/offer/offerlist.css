@@ -1,0 +1,23 @@
+.handleoffer{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    width: fit-content;
+    margin: 0;
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+  }
+
+.header {
+    text-align: center;
+    width:100%
+}
+
+.pagination {
+    top: 100%;
+    left: 50%;
+    transform: translate(33%, 1350%);
+  }

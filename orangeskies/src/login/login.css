@@ -1,0 +1,12 @@
+.login{
+    text-align: center;
+    //display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10%;
+    padding-left: 15%;
+    padding-right: 15%;
+    margin-left: 15%;
+    margin-right: 15%;
+
+}

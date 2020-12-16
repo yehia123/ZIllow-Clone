@@ -1,0 +1,80 @@
+.InputZIP{
+  width:85px;
+}
+.InputZIPCountry{
+  width:85px;
+}
+.InputZIPStreet{
+  width:135px;
+}
+
+.inputBed{
+  border: none;
+}
+
+.ListingCard{
+  padding-top: 1%;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-bottom: 1%;
+}
+
+.card-img-top {
+    width: 50%;
+    height: 20vw;
+    object-fit: contain;
+}
+
+
+
+
+/* <DropdownItem>
+  <InputGroup>
+    <InputGroupAddon addonType="prepend">
+      <InputGroupText>
+        <Input addon type="checkbox" aria-label="Checkbox for following text input" />
+      </InputGroupText>
+    </InputGroupAddon>
+    <Input placeholder="Apartment" />
+  </InputGroup>
+</DropdownItem>
+
+
+
+
+<FormGroup tag="fieldset">
+ <legend>Radio Buttons</legend>
+ <FormGroup check>
+   <Label check>
+     <Input type="radio" name="radio1" />{' '}
+     Option one is this and that—be sure to include why it's great
+   </Label>
+ </FormGroup>
+ <FormGroup check>
+   <Label check>
+     <Input type="radio" name="radio1" />{' '}
+     Option two can be something else and selecting it will deselect option one
+   </Label>
+ </FormGroup>
+ <FormGroup check disabled>
+   <Label check>
+     <Input type="radio" name="radio1" disabled />{' '}
+     Option three is disabled
+   </Label>
+ </FormGroup>
+
+
+
+ <UncontrolledDropdown nav inNavbar>
+   <DropdownToggle nav caret>
+     Property Type
+   </DropdownToggle>
+   <DropdownMenu right>
+
+
+     <DropdownItem divider />
+     <DropdownItem>
+       Reset
+     </DropdownItem>
+   </DropdownMenu>
+ </UncontrolledDropdown> */

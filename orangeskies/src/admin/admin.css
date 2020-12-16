@@ -1,0 +1,25 @@
+.adminpage{
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  width: fit-content;
+  margin: 0;
+  position: absolute;
+  top: 37%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.header {
+  position: absolute;
+  top: 14%;
+  text-align: center;
+  width:100%
+}
+
+.pagination {
+  top: 100%;
+  left: 800%;
+  transform: translate(33%, 850%);
+}
